@@ -10,6 +10,6 @@ Link-> https://zhuanlan.zhihu.com/p/536130026
 
 ## Advanced Control Theory
 ### 1. Event-trigegred Control
-[1] Antoine Girard,"Dynamic Triggering Mechanisms for Event-Triggered Control",IEEE TAC, vol.60, no.7, pp. 1992-1997, 2015.  
+[1] Antoine Girard,"Dynamic Triggering Mechanisms for Event-Triggered Control",IEEE TAC, vol.60, no.7, pp. 1992-1997, 2015.   
 Link-> https://zhuanlan.zhihu.com/p/561460666
 

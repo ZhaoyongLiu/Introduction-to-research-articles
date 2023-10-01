@@ -4,6 +4,7 @@ This folder contains MATLAB codes for performing numerical simulations on the fo
 
 ## Complex Dynamical Systems
 ### 1. Switched Systems
+[1] Jie Lian,Can Li,and Biao Xia,"Sampled-Data Control of Switched Linear Systems With Application to an F-18 Aircraft",IEEE TIE, vol.64, no.2, pp. 1332-1340, 2017. 
 
 ## Advanced Control Theory
 ### 1. Event-trigegred Control

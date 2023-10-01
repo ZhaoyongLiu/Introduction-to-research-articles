@@ -1,4 +1,4 @@
-# Introduction to automatic control articles
+# Introduction to Automatic Control Articles
 
 This folder contains MATLAB codes for performing numerical simulations on the following papers. 
 

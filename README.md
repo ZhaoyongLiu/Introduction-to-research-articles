@@ -6,8 +6,7 @@ This folder contains MATLAB/Python codes for performing numerical simulations on
 
 ## Automation
 ### Complex dynamical systems
-1. switched systems <br>
-**sampled-data control** <br>
+1. switched systems (sampled-data control) <br>
 [1] Jie Lian,Can Li,and Biao Xia,"Sampled-Data Control of Switched Linear Systems With Application to an F-18 Aircraft", IEEE TIE, vol.64, no.2, pp. 1332-1340, 2017.
 Link-> https://zhuanlan.zhihu.com/p/536130026
 

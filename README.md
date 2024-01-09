@@ -1,6 +1,6 @@
 # Introduction to research articles
 
-This folder contains MATLAB codes for performing numerical simulations on the following papers. 
+This folder contains MATLAB/Python codes for performing numerical simulations on the following papers. 
 
 ## Robotics
 

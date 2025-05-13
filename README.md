@@ -15,6 +15,10 @@ Link-> https://zhuanlan.zhihu.com/p/536130026
 [1] Antoine Girard, "Dynamic Triggering Mechanisms for Event-Triggered Control", IEEE TAC, vol.60, no.7, pp. 1992-1997, 2015.
 Link-> https://zhuanlan.zhihu.com/p/561460666
 
+2. finite time observer
+[1] Robert Engel, Gerhard Kreisselmeier. "A Continuous-Time Observer Which Converges in Finite Time". IEEE TAC, vol. 47, no.7, pp. 1202-1204, 2002.
+Link-> [https://zhuanlan.zhihu.com/p/561460666](https://zhuanlan.zhihu.com/p/1905683414432093634)
+
 ## Pattern recognition and artificial intelligence
 
 
